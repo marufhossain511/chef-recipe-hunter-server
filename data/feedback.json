@@ -1,17 +1,17 @@
       [
       {
-        "customer_name": "Alice",
-        "customer_image": "https://example.com/images/alice.jpg",
+        "customer_name": "Shanell",
+        "customer_image": "https://img.freepik.com/free-photo/businesswoman-showing-thumbs-up_329181-11690.jpg?size=626&ext=jpg&ga=GA1.1.452690373.1680190369&semt=robertav1_2_sidr",
         "comment": "The food that was prepared was amazing! The flavors were so well-balanced and everything was cooked to perfection."
       },
       {
         "customer_name": "Bob",
-        "customer_image": "https://example.com/images/bob.jpg",
+        "customer_image": "https://img.freepik.com/free-photo/handsome-business-man-wearing-suit-looking-camera-smiling-broadly-with-happy-face-standing-white-background_141793-54115.jpg?size=626&ext=jpg&ga=GA1.2.452690373.1680190369&semt=robertav1_2_sidr",
         "comment": "The dishes were beautifully presented and tasted as good as they looked."
       },
       {
         "customer_name": "Charlie",
-        "customer_image": "https://example.com/images/charlie.jpg",
+        "customer_image": "https://img.freepik.com/free-photo/handsome-corporate-man-real-estate-agent-assistant-smiling-hold-hands-together-how-may-i-help-you-smiling-friendly-polite-assist-customer-white-background_176420-45257.jpg?size=626&ext=jpg&ga=GA1.1.452690373.1680190369&semt=robertav1_2_sidr",
         "comment": "The service was exceptional and the food exceeded my expectations. I will definitely be coming back!"
       }
     ]
