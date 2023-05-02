@@ -1,0 +1,211 @@
+[
+    {
+      "id": 1,
+      "chef_picture": "https://img.freepik.com/free-photo/confident-young-female-cook-wearing-chef-uniform-holding-frying-pan-crossing-hands-isolated-white-wall_141793-120213.jpg?size=626&ext=jpg&ga=GA1.2.452690373.1680190369&semt=robertav1_2_sidr",
+      "chef_name": "Fatima Ahmed",
+      "years_of_experience": 10,
+      "number_of_recipes": 150,
+      "likes": 800,
+      "nationality": "British",
+      "description": "A British chef and restaurateur known for his creative and innovative approach to cooking, as well as his advocacy for healthy eating and improving school meals. He has written numerous cookbooks and hosted several television shows, including 'The Naked Chef' and 'Jamie's Food Revolution'.",
+      "special_recipes": [
+        {
+          "recipe_name": "Mansaf",
+          "recipe_image": "https://img.freepik.com/free-photo/woman-arab-dish-restaurant_23-2147794240.jpg?size=626&ext=jpg&ga=GA1.1.452690373.1680190369&semt=robertav1_2_sidr",
+          "recipe_ingredients": ["lamb meat", "jameed", "rice", "almonds"],
+          "recipe_details": "Mansaf is a traditional Jordanian dish made of lamb cooked in a sauce of fermented yogurt and served over rice with almonds."
+        },
+        {
+
+          "recipe_name": "Falafel",
+          "recipe_image": "https://www.whiskaffair.com/wp-content/uploads/2019/12/Falafel-1-3.jpg",
+          "recipe_ingredients": ["chickpeas", "onions", "garlic", "cilantro"],
+          "recipe_details": "Falafel is a popular Middle Eastern street food made of spiced chickpea balls that are fried and served in pita bread with vegetables and sauce."
+        },
+        {
+
+          "recipe_name": "Shakshuka",
+          "recipe_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6JvuT7LYbGDsq3r2sOFR7htqahBdC7OSRdA&usqp=CAU",
+          "recipe_ingredients": ["tomatoes", "bell peppers", "onions", "eggs"],
+          "recipe_details": "Shakshuka is a North African and Middle Eastern dish made of poached eggs cooked in a tomato-based sauce with peppers and onions."
+        },
+        {
+          "recipe_name": "Kanafeh",
+          "recipe_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRPZ3P5McPeDdnCg3xVoJAEHKWCVqBWZQd1Q&usqp=CAU",
+          "recipe_ingredients": ["shredded phyllo dough", "ricotta cheese", "sugar syrup", "pistachios"],
+          "recipe_details": "Kanafeh is a sweet Middle Eastern dessert made of shredded phyllo dough stuffed with ricotta cheese and soaked in sugar syrup, then topped with pistachios."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "chef_picture": "https://img.freepik.com/free-photo/medium-shot-chef-with-pan-spatula_23-2148723241.jpg?size=626&ext=jpg&ga=GA1.2.452690373.1680190369&semt=robertav1_2_sidr",
+      "chef_name": "Ali Hassan",
+      "years_of_experience": 15,
+      "number_of_recipes": 200,
+      "likes": 1200,
+      "nationality": "British",
+      "description": "A British chef, restaurateur, and television personality known for his fiery personality and high standards in the kitchen. He has numerous restaurants around the world and has hosted several popular television shows, including 'Hell's Kitchen' and 'MasterChef'.",
+      "special_recipes": [
+        {
+          "recipe_name": "Kabsa",
+          "recipe_image": "https://nishkitchen.com/wp-content/uploads/2017/06/chicken-kabsa-2B.jpg",
+          "recipe_ingredients": ["chicken", "rice", "onions", "spices"],
+          "recipe_details": "Kabsa is a popular Saudi Arabian dish made of spiced rice with chicken, onions, and other vegetables."
+        },
+        {
+          "recipe_name": "Mandi",
+          "recipe_image": "https://cdn.siasat.com/wp-content/uploads/2023/03/mandi.png",
+          "recipe_ingredients": ["lamb meat", "rice", "spices", "tomatoes"],
+          "recipe_details": "Mandi is a traditional Yemeni dish made of spiced rice with tender lamb meat that is slow-cooked until it's fall-off-the-bone tender."
+        },
+        {
+            "recipe_name": "Kanafeh",
+            "recipe_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR25cmWP9rgzjb_eVrQNpOZ949mOVOCV9xpZQ&usqp=CAU",
+            "recipe_ingredients": ["shredded phyllo dough", "ricotta cheese", "sugar syrup", "pistachios"],
+            "recipe_details": "Kanafeh is a sweet Middle Eastern dessert made of shredded phyllo dough stuffed with ricotta cheese and soaked in sugar syrup, then topped with pistachios."
+        }
+      ]
+    },
+    {
+        "id": 3,
+        "chef_picture": "https://img.freepik.com/free-photo/medium-shot-smiley-woman-cutting-onion_23-2149631686.jpg?size=626&ext=jpg&ga=GA1.1.452690373.1680190369&semt=robertav1_2_sidr",
+        "chef_name": "Rania Khalil",
+        "years_of_experience": 8,
+        "number_of_recipes": 100,
+        "likes": 600,
+        "nationality": "American",
+        "description": "An American chef and television personality known for bringing French cuisine to the American public through her cookbooks and television shows, including 'The French Chef'. She is also known for her witty and charming personality in the kitchen.",
+        "special_recipes": [
+          {
+            "recipe_name": "Kunafa",
+            "recipe_image": "https://butfirstchai.com/wp-content/uploads/2020/06/Cream-kunafa-recipe.jpg",
+            "recipe_ingredients": ["shredded phyllo dough", "mozzarella cheese", "sugar syrup", "pistachios"],
+            "recipe_details": "Kunafa is a sweet Middle Eastern dessert made of shredded phyllo dough stuffed with melted mozzarella cheese and soaked in sugar syrup, then topped with pistachios."
+          },
+          {
+            "recipe_name": "Molokhia",
+            "recipe_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmC7R1AyqWP8QHdmj7dTtgWBJmPUG-_LdaNA&usqp=CAU",
+            "recipe_ingredients": ["molokhia leaves", "chicken", "garlic", "coriander"],
+            "recipe_details": "Molokhia is a traditional Egyptian dish made of stewed molokhia leaves with chicken, garlic, and coriander, and is typically served over rice."
+          },
+          {
+
+            "recipe_name": "Maqluba",
+            "recipe_image": "https://recipes.net/wp-content/uploads/2021/09/maqluba-recipe.jpg",
+            "recipe_ingredients": ["rice", "chicken", "eggplant", "cauliflower"],
+            "recipe_details": "Maqluba is a Levantine dish made of rice and chicken cooked with layers of eggplant and cauliflower, then inverted onto a serving platter."
+          },
+          {
+            "recipe_name": "Baba Ghanoush",
+            "recipe_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwlD4nFG5IIQLoXakCZ0kkfDjhIEV0VcTslw&usqp=CAU",
+            "recipe_ingredients": ["eggplant", "tahini", "lemon juice", "garlic"],
+            "recipe_details": "Baba ghanoush is a Levantine dish made of roasted eggplant blended with tahini, lemon juice, and garlic, and is typically served as a dip."
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "chef_picture": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?size=626&ext=jpg&ga=GA1.2.452690373.1680190369&semt=robertav1_2_sidr",
+        "chef_name": "Hassan Ali",
+        "years_of_experience": 20,
+        "number_of_recipes": 250,
+        "likes": 1500,
+        "nationality": "American",
+        "description": "An American chef, author, and television personality known for his love of travel and exploration of different cultures through food. He hosted several popular television shows, including 'No Reservations' and 'Parts Unknown', and wrote several bestselling books, including 'Kitchen Confidential'.",
+        "special_recipes": [
+          {
+            "recipe_name": "Tabbouleh",
+            "recipe_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyRaasv4cubNWIxC15cm6E3kA1MRHF9E3l_Q&usqp=CAU",
+            "recipe_ingredients": ["parsley", "tomatoes", "bulgur wheat", "mint"],
+            "recipe_details": "Tabbouleh is a Levantine salad made of finely chopped parsley and tomatoes, with bulgur wheat and mint for flavor."
+          },
+          {
+            "recipe_name": "Kofta",
+            "recipe_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3L-pD-uu32QIqUnSCA8ibZFy5-S86eWDhfw&usqp=CAU",
+            "recipe_ingredients": ["ground beef", "onions", "parsley", "spices"],
+            "recipe_details": "Kofta is a Middle Eastern dish made of ground beef mixed with onions, parsley, and spices, then grilled or baked into meatballs or patties"
+          },
+          {
+            "recipe_name": "Maqluba",
+            "recipe_image": "https://recipes.net/wp-content/uploads/2021/09/maqluba-recipe.jpg",
+            "recipe_ingredients": ["rice", "chicken", "eggplant", "cauliflower"],
+            "recipe_details": "Maqluba is a Levantine dish made of rice and chicken cooked with layers of eggplant and cauliflower, then inverted onto a serving platter."
+          },
+          {
+            "recipe_name": "Mandi",
+            "recipe_image": "https://cdn.siasat.com/wp-content/uploads/2023/03/mandi.png",
+            "recipe_ingredients": ["lamb meat", "rice", "spices", "tomatoes"],
+            "recipe_details": "Mandi is a traditional Yemeni dish made of spiced rice with tender lamb meat that is slow-cooked until it's fall-off-the-bone tender."
+          }
+        ]
+        },
+        {
+            "id": 5,
+            "chef_picture": "https://img.freepik.com/free-photo/male-chef-uniform-hat-apron-adding-spice-into-food-kitchen_176474-9019.jpg?size=626&ext=jpg&ga=GA1.2.452690373.1680190369&semt=robertav1_2_sidr",
+            "chef_name": "Salt Bae",
+            "years_of_experience": 12,
+            "number_of_recipes": 180,
+            "likes": 900,
+            "nationality": "Italian",
+            "description": "An Italian chef and restaurateur known for his innovative approach to Italian cuisine and his restaurant, Osteria Francescana, which has been named the best restaurant in the world multiple times. He is also known for his work with the non-profit organization Food for Soul, which seeks to reduce food waste and improve access to healthy food.",
+            "special_recipes": [
+              {
+                "recipe_name": "Shakshuka",
+                "recipe_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6JvuT7LYbGDsq3r2sOFR7htqahBdC7OSRdA&usqp=CAU",
+                "recipe_ingredients": ["tomatoes", "bell peppers", "onions", "eggs"],
+                "recipe_details": "Shakshuka is a Middle Eastern dish made of poached eggs in a sauce of tomatoes, bell peppers, onions, and spices, and is typically served with bread."
+              },
+              {
+                "recipe_name": "Hummus",
+                "recipe_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOch0WXc-04ZJVhr_GpVaQ6kTRE5djDw0IzQ&usqp=CAU",
+                "recipe_ingredients": ["chickpeas", "tahini", "lemon juice", "garlic"],
+                "recipe_details": "Hummus is a Levantine dip made of chickpeas blended with tahini, lemon juice, and garlic, and is typically served with pita bread or vegetables."
+              },
+              {
+                "recipe_name": "Baklava",
+                "recipe_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3gxLFCwIx0OOvxzr3u54gnSMNknvqeFv1Yw&usqp=CAU",
+                "recipe_ingredients": ["phyllo dough", "walnuts", "sugar syrup", "butter"],
+                "recipe_details": "Baklava is a sweet Middle Eastern pastry made of layers of phyllo dough filled with ground walnuts, then soaked in sugar syrup and topped with melted butter."
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "chef_picture": "https://img.freepik.com/free-photo/studio-portrait-positive-cook-male-holds-eggplant_613910-9899.jpg?size=626&ext=jpg&ga=GA1.2.452690373.1680190369&semt=robertav1_2_sidr",
+            "chef_name": "Youssef Mahmoud",
+            "years_of_experience": 15,
+            "number_of_recipes": 200,
+            "likes": 1200,
+            "nationality": "Israeli",
+            "description": "An Israeli chef, restaurateur, and cookbook author known for his use of bold and flavorful ingredients in his Mediterranean-inspired dishes. He has several restaurants in London and has written several bestselling cookbooks, including 'Plenty' and 'Jerusalem'.",
+            "special_recipes": [
+              {
+
+                "recipe_name": "Ful Medames",
+                "recipe_image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MKIW7MTJRAI6ZE4Q5LRED5GIWE.jpg&w=1440",
+                "recipe_ingredients": ["fava beans", "olive oil", "lemon juice", "garlic"],
+                "recipe_details": "Ful medames is a traditional Egyptian breakfast dish made of stewed fava beans with olive oil, lemon juice, and garlic, and is typically served with bread."
+              },
+              {
+
+                "recipe_name": "Koshari",
+                "recipe_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjGDXd-jikAxJBUunvf2SyDAu_1Shx2KHosA&usqp=CAU",
+                "recipe_ingredients": ["rice", "lentils", "macaroni", "spices"],
+                "recipe_details": "Koshari is an Egyptian dish made of mixed rice, lentils, and macaroni, topped with a spiced tomato sauce and fried onions."
+              },
+              {
+                "recipe_name": "Mahshi",
+                "recipe_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLhMco4Q4HaHae_ZziuVT9-5NfbLKq3SWRhw&usqp=CAU",
+                "recipe_ingredients": ["zucchini", "eggplant", "rice", "tomato sauce"],
+                "recipe_details": "Mahshi is a Levantine dish made of stuffed vegetables, typically zucchini or eggplant, with a filling of rice and spices, and served with tomato sauce."
+              },
+              {
+                "recipe_name": "Hummus",
+                "recipe_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOch0WXc-04ZJVhr_GpVaQ6kTRE5djDw0IzQ&usqp=CAU",
+                "recipe_ingredients": ["chickpeas", "tahini", "lemon juice", "garlic"],
+                "recipe_details": "Hummus is a Levantine dip made of chickpeas blended with tahini, lemon juice, and garlic, and is typically served with pita bread or vegetables."
+              }
+            ]
+          }
+]   
