@@ -4,7 +4,7 @@ const port =process.env.PORT || 5000;
 const cors =require('cors')
 
 const data=require('./data/data.json')
-
+const feedbackData=require('./data/feedback.json')
 
 app.use(cors())
 
@@ -15,6 +15,10 @@ app.get('/', (req, res) => {
 
 app.get('/data',(req,res)=>{
     res.send(data)
+})
+
+app.get('/feedback',(req,res)=>{
+  res.send(feedbackData)
 })
 
 app.get('/data/:id',(req,res)=>{
