@@ -17,11 +17,7 @@ app.get('/data',(rq,res)=>{
     res.send(data)
 })
 
-app.get('/data/:id',(req,res)=>{
-   const id=parseInt(req.params.id)
-   const selectedChef=data.find(d=>parseInt(d.id)=== id)
-   res.send(selectedChef)
-})
+
 
 app.listen(port, () => {
     console.log(`Example app listening on port ${port}`)
